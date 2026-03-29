@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 
 #Loading Data
-BeerData = pd.read_csv("Dataset/beer_profile_and_ratings.csv")
+BeerData = pd.read_csv("beer_profile_and_ratings.csv")
 
 #Cleaning useless data 
 columns_to_drop = [
