@@ -10,7 +10,7 @@ Machine learning project to predict beer ratings based on flavor characteristics
 - R² ≈ 0.45
 - MSE ≈ 0.099
 
-#Key Insights
+# Key Insights
 - Body and Malty are strong predictors of high ratings
 - Sour negatively impacts ratings
 - Model captures general trends but struggles with extreme values
@@ -19,5 +19,5 @@ Machine learning project to predict beer ratings based on flavor characteristics
 - `Main.py`: main script
 - `beer_profile_and_ratings.csv`: dataset
 
-#External Reference
+# External Reference
 - Untappd Top Rated Beers
